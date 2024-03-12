@@ -1,3 +1,5 @@
+//Write a C program to display greatest of three numbers
+
 #include <stdio.h>
 
 int main() {
